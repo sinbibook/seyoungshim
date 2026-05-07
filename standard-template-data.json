@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-05-07T07:09:19.646909520Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-05-07T07:52:22.641451938Z",
     "templateType": "full_banner_wipe",
     "propertyId": "c735df20-589f-43c1-a00a-f4dc1b4ce947",
     "homepageId": "f2789f4e-3e22-44a0-810a-db795ae0310e"
@@ -526,7 +526,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
                     "id": "5907346f-cafd-4ac0-aa77-c983cebd9e6b",
@@ -549,7 +549,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
                     "id": "e4efd71d-862a-486d-8c11-0fc0d653d6c4",
@@ -559,7 +559,8 @@
                     "isSelected": true,
                     "blockId": null
                   }
-                ]
+                ],
+                "description": " "
               },
               "about": [ ]
             }
