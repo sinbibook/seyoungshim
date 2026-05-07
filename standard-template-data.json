@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-05-07T07:52:22.641451938Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-05-07T08:18:19.644978231Z",
     "templateType": "full_banner_wipe",
     "propertyId": "c735df20-589f-43c1-a00a-f4dc1b4ce947",
     "homepageId": "f2789f4e-3e22-44a0-810a-db795ae0310e"
@@ -79,7 +79,32 @@
         "description": " ",
         "usageGuide": "- 공용으로 사용하는 주방으로 최신식 집기류와 청결한 공간 제공\n",
         "displayOrder": 0,
-        "images": [ ]
+        "images": [
+          {
+            "id": "2cd22292-f1c2-466c-8fb5-f8b045151236",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/9551170f-2d35-47c1-a4cb-8d2aa0e0eb34/main/1778141816590-e9y1xit0wc.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "a97e5bee-d090-4658-92ee-d8245d564ac8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/9551170f-2d35-47c1-a4cb-8d2aa0e0eb34/main/1778141816526-3bdickyerz.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "0019d57b-29bb-4e87-a861-82ca4f4c3818",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/9551170f-2d35-47c1-a4cb-8d2aa0e0eb34/main/1778141816583-v9x77cgh5y.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "c1a3c3d8-4257-49e2-8508-14d21d167f5b",
@@ -87,7 +112,48 @@
         "description": " ",
         "usageGuide": "- 펜션 1층 참숯생갈비구이 식당운영",
         "displayOrder": 1,
-        "images": [ ]
+        "images": [
+          {
+            "id": "542e545c-2b1a-4944-9031-1937bd21bc76",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c1a3c3d8-4257-49e2-8508-14d21d167f5b/main/1778141819209-zhv1ggttm2.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "9600a3c0-772a-4a83-adb5-bed3e16a4a3a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c1a3c3d8-4257-49e2-8508-14d21d167f5b/main/1778141819185-18g2r6ez7x.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "2301075d-f93e-4be6-aa41-7fccb10313e5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c1a3c3d8-4257-49e2-8508-14d21d167f5b/main/1778141819210-s683br7kqb.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "fe560049-6153-47a3-ba16-6a0411f753d1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c1a3c3d8-4257-49e2-8508-14d21d167f5b/main/1778141819200-bspklkc0ch.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "15aba51a-5457-4676-8485-a20fbb6ad630",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c1a3c3d8-4257-49e2-8508-14d21d167f5b/main/1778141819224-knushf1n36.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "refundPolicies": [
@@ -150,7 +216,7 @@
     {
       "id": "965146c2-be2f-405f-bf52-fc46e04be260",
       "name": "401 (오션뷰)",
-      "description": "",
+      "description": "원룸형, 거실1+침대룸(퀸침대1)+화장실1",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 5세~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
@@ -206,7 +272,7 @@
     {
       "id": "3af78ec2-0750-453a-a026-1c0da700f9e3",
       "name": "402 (오션뷰)",
-      "description": "",
+      "description": "분리형, 거실1+침대룸(퀸침대1)+화장실1\n",
       "roomInfo": "분리형, 거실1+침대룸(퀸침대1)+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 5세~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
@@ -262,7 +328,7 @@
     {
       "id": "c562c028-59d5-4e57-b4d6-de30b5ccb888",
       "name": "403",
-      "description": "",
+      "description": "원룸형, 거실1+침대룸(퀸침대1)+화장실1",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 5세~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
@@ -318,7 +384,7 @@
     {
       "id": "fae2b041-20ce-4dbc-af6f-0fe96fab680d",
       "name": "502 (오션뷰)",
-      "description": "",
+      "description": "원룸형, 거실1+침대룸(퀸침대1)+화장실1",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 만 5세~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
