@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-05-07T08:18:19.644978231Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-05-07T08:42:03.184828222Z",
     "templateType": "full_banner_wipe",
     "propertyId": "c735df20-589f-43c1-a00a-f4dc1b4ce947",
     "homepageId": "f2789f4e-3e22-44a0-810a-db795ae0310e"
@@ -448,9 +448,9 @@
       }
     ],
     "seo": {
-      "title": "",
-      "description": "",
-      "keywords": ""
+      "title": "여수 세영쉼스테이",
+      "description": "여수 바다를 가까이에서 즐길 수 있는 감성 스테이",
+      "keywords": "여수감성숙소, 여수오션뷰, 여수힐링스테이, 프라이빗숙소, 여수여행추천"
     },
     "socialLinks": {
       "facebook": null,
@@ -499,9 +499,17 @@
                     "blockId": null
                   },
                   {
+                    "id": "da588001-951e-40ed-8fa5-5d3146d95c6b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f2789f4e-3e22-44a0-810a-db795ae0310e/index_hero/1778136785981-xcaecf5oc2.jpg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
                     "id": "5b8b3eb6-c856-43d2-a16d-66de6d460560",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f2789f4e-3e22-44a0-810a-db795ae0310e/index_hero/1778136785958-bvh0o8iq59.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 5,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -509,7 +517,7 @@
                   {
                     "id": "652a93fa-f3ae-40f3-8838-5c37b499744e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f2789f4e-3e22-44a0-810a-db795ae0310e/index_hero/1778136785960-qx49jk7c5z.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 6,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -517,14 +525,6 @@
                   {
                     "id": "a0d95911-1b81-4448-bcb0-959e2ab37c62",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f2789f4e-3e22-44a0-810a-db795ae0310e/index_hero/1778136785977-u4azmfhw4t.jpg",
-                    "sortOrder": 6,
-                    "description": "",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
-                    "id": "da588001-951e-40ed-8fa5-5d3146d95c6b",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f2789f4e-3e22-44a0-810a-db795ae0310e/index_hero/1778136785981-xcaecf5oc2.jpg",
                     "sortOrder": 7,
                     "description": "",
                     "isSelected": true,
@@ -568,16 +568,84 @@
                 "description": " "
               },
               "essence": {
-                "title": "",
-                "images": [ ],
+                "title": "세영 쉼 stay",
+                "images": [
+                  {
+                    "id": "0f5d5351-31c9-4d4d-8e1d-83fdca8860d4",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f2789f4e-3e22-44a0-810a-db795ae0310e/index_essence/1778142897180-jkm5rkmfd6.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "8b8bcc5d-329f-441c-8f10-c77f09f70779",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f2789f4e-3e22-44a0-810a-db795ae0310e/index_essence/1778142897142-2bgw194v4a.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "cc75113f-9aa2-4691-8647-0e2988d411e4",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f2789f4e-3e22-44a0-810a-db795ae0310e/index_essence/1778142897169-ls70xpnc9p.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
-                "mediaType": "image"
+                "mediaType": "image",
+                "description": "여수 바다의 분위기를 가까이에서 느끼며 \n머무는 감성 스테이.\n\n번잡한 여행보다, 조용히 쉬어가는 하루에 \n더 어울리는 공간입니다.\n\n따뜻한 조명과 아늑한 무드 속에서 \n여수의 밤을 편하게 즐겨보세요."
               },
               "gallery": {
-                "title": "",
-                "images": [ ],
+                "title": "Preview",
+                "images": [
+                  {
+                    "id": "68e8ded2-8b76-4e96-8cfc-3369362e1170",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f2789f4e-3e22-44a0-810a-db795ae0310e/index_gallery/1778142897182-i6q6uzlu0i.jpg",
+                    "sortOrder": 0,
+                    "description": "객실내부",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "9f035da7-806a-4c3f-b563-7ce69568e3dc",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f2789f4e-3e22-44a0-810a-db795ae0310e/index_gallery/1778142897163-37ufcc34aj.jpg",
+                    "sortOrder": 1,
+                    "description": "전경",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "b347d870-8382-4779-9a60-f8e27eb4bf07",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f2789f4e-3e22-44a0-810a-db795ae0310e/index_gallery/1778142897176-53toag48vq.jpg",
+                    "sortOrder": 2,
+                    "description": "식당",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "b825d948-272d-4963-b10a-10bb9b1f79c4",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f2789f4e-3e22-44a0-810a-db795ae0310e/index_gallery/1778142897190-mohs1onwnh.jpg",
+                    "sortOrder": 3,
+                    "description": "북동수변공원",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "f3d17eb0-7784-42b5-b914-13f12fd09213",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f2789f4e-3e22-44a0-810a-db795ae0310e/index_gallery/1778142897196-yu94mrsg73.jpg",
+                    "sortOrder": 4,
+                    "description": "야경",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
-                "mediaType": "image"
+                "mediaType": "image",
+                "description": " "
               },
               "signature": {
                 "title": "",
@@ -628,7 +696,38 @@
                 ],
                 "description": " "
               },
-              "about": [ ]
+              "about": [
+                {
+                  "title": "여수 중심 감성 스테이",
+                  "images": [
+                    {
+                      "id": "9065dc49-e367-408c-8a5e-dd919e29bb68",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f2789f4e-3e22-44a0-810a-db795ae0310e/main_about/1778143306493-awn1j8rxqc.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "419aa4c6-6711-410d-9f4c-b053df70cd9a"
+                    }
+                  ],
+                  "blockId": "419aa4c6-6711-410d-9f4c-b053df70cd9a",
+                  "description": "이순신광장, 돌산공원, 해상케이블카 등 \n여수 인기 관광지와 가까운 위치.\n여수 밤바다와 맛집, 감성 여행 코스를 \n편하게 즐기실 수 있습니다.\n여행의 이동은 줄이고, \n여수의 분위기는 더욱 가까이에서 느껴보세요."
+                },
+                {
+                  "title": "오션뷰 속 여유로운 쉼",
+                  "images": [
+                    {
+                      "id": "508ac3c0-f208-482f-be4f-2e031cf4d111",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f2789f4e-3e22-44a0-810a-db795ae0310e/main_about/1778143306492-emd5uzfpam.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "0bf7c16d-91ff-4b2f-8441-37c54ea67b14"
+                    }
+                  ],
+                  "blockId": "0bf7c16d-91ff-4b2f-8441-37c54ea67b14",
+                  "description": "객실 안에서도 탁 트인 \n여수 바다의 분위기를 느껴보세요.\n잔잔한 오션뷰와 함께 \n편안한 휴식의 시간을 즐기실 수 있습니다.\n여수의 낮과 밤을 더욱 특별하게 \n채워주는 감성 스테이입니다."
+                }
+              ]
             }
           ]
         },
@@ -1215,18 +1314,9 @@
               "category": "roomtype_interior"
             },
             {
-              "id": "85011783-2e9f-41f0-9776-9e41ce96cd99",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f2789f4e-3e22-44a0-810a-db795ae0310e/roomtype_exterior/1778136737479-gz6mwbcrrt.jpg",
-              "sortOrder": 9,
-              "description": "",
-              "isSelected": true,
-              "blockId": "fae2b041-20ce-4dbc-af6f-0fe96fab680d",
-              "category": "roomtype_exterior"
-            },
-            {
               "id": "88b29925-8e7a-4d1e-8758-dadb3be8a270",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f2789f4e-3e22-44a0-810a-db795ae0310e/roomtype_exterior/1778136737379-wey6bq5dnw.jpg",
-              "sortOrder": 10,
+              "sortOrder": 9,
               "description": "",
               "isSelected": true,
               "blockId": "fae2b041-20ce-4dbc-af6f-0fe96fab680d",
@@ -1235,6 +1325,15 @@
             {
               "id": "31ee7325-c06f-467d-aad9-566c6e7d8907",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f2789f4e-3e22-44a0-810a-db795ae0310e/roomtype_exterior/1778136737367-ttclm75mgf.jpg",
+              "sortOrder": 10,
+              "description": "",
+              "isSelected": true,
+              "blockId": "fae2b041-20ce-4dbc-af6f-0fe96fab680d",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "c576fb99-c33b-40ed-bd98-a6ba3e6f1def",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f2789f4e-3e22-44a0-810a-db795ae0310e/roomtype_exterior/1778142555599-69o8wdivcb.jpg",
               "sortOrder": 11,
               "description": "",
               "isSelected": true,
