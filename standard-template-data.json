@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-05-08T05:54:51.310988573Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-05-08T05:57:00.827884704Z",
     "templateType": "full_banner_wipe",
     "propertyId": "c735df20-589f-43c1-a00a-f4dc1b4ce947",
     "homepageId": "f2789f4e-3e22-44a0-810a-db795ae0310e"
@@ -13,8 +13,8 @@
     "description": "",
     "subtitle": "",
     "address": "전라남도 여수시 봉산2로 6",
-    "latitude": 0,
-    "longitude": 0,
+    "latitude": 34.7308550935628,
+    "longitude": 127.724462709617,
     "contactPhone": "010-5211-5613",
     "contactEmail": "",
     "checkin": "15:00",
@@ -205,8 +205,58 @@
     },
     "images": [
       {
-        "thumbnail": [ ],
-        "exterior": [ ],
+        "thumbnail": [
+          {
+            "id": "bb275da4-2160-4cde-91e6-1c4ac8b0aceb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/c735df20-589f-43c1-a00a-f4dc1b4ce947/thumbnail/1778219759717-1hlzyzk5a1.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
+        "exterior": [
+          {
+            "id": "9388b139-c6b9-4bf0-9391-8411f4960d93",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/c735df20-589f-43c1-a00a-f4dc1b4ce947/exterior/1778219759768-nmhajj7wgy.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "9bbdcf7e-4e3b-4d81-885a-684eb7b6fdb8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/c735df20-589f-43c1-a00a-f4dc1b4ce947/exterior/1778219759765-4m1p4irwvh.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "ae71897b-871a-4682-9352-8c34f694597f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/c735df20-589f-43c1-a00a-f4dc1b4ce947/exterior/1778219759721-tbze2kyn4e.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "3daa2094-ec26-427e-b353-23a23e0efca3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/c735df20-589f-43c1-a00a-f4dc1b4ce947/exterior/1778219759648-7b8z1r91h3.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "8e0d0592-3af7-41d5-951a-3d7120684ca6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/c735df20-589f-43c1-a00a-f4dc1b4ce947/exterior/1778219759624-vp8r0e39my.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
         "surrounding": [ ],
         "commonArea": [ ]
       }
