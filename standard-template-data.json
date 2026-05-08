@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-05-07T08:42:03.184828222Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-05-08T05:53:11.294627960Z",
     "templateType": "full_banner_wipe",
     "propertyId": "c735df20-589f-43c1-a00a-f4dc1b4ce947",
     "homepageId": "f2789f4e-3e22-44a0-810a-db795ae0310e"
@@ -731,7 +731,68 @@
             }
           ]
         },
-        "room": [ ],
+        "room": [
+          {
+            "id": "965146c2-be2f-405f-bf52-fc46e04be260",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "3af78ec2-0750-453a-a026-1c0da700f9e3",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "c562c028-59d5-4e57-b4d6-de30b5ccb888",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "fae2b041-20ce-4dbc-af6f-0fe96fab680d",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          }
+        ],
         "facility": [ ],
         "reservation": {
           "sections": [
