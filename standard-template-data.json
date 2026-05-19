@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.12.0",
-    "generatedAt": "2026-05-18T05:26:57.911037797Z",
+    "version": "1.13.0",
+    "generatedAt": "2026-05-19T03:57:04.625243268Z",
     "templateType": "full_banner_wipe",
     "propertyId": "c735df20-589f-43c1-a00a-f4dc1b4ce947",
     "homepageId": "f2789f4e-3e22-44a0-810a-db795ae0310e"
@@ -283,7 +283,22 @@
       "bedTypes": [
         "퀸 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 1,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
       "amenities": [
         "침대",
         "책상",
